@@ -24,8 +24,8 @@ div.gallery{
 
 div.gallery a{
 	position: absolute;
-	left : 0px; /* start animation point */
-	top  : 1000px;
+	left : -400px; /* start animation point */
+	top  :  350px;
 	display : block;
 	border  : solid white;
 	border-width  : 4px 4px 20px 4px;
